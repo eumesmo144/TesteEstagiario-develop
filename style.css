@@ -1,4 +1,13 @@
- * {
-    background-color: rgb(198, 186, 221);
+body {
+    background: #40546c;    
     font-family: 'Roboto', sans-serif;
+}
+div {
+    border-radius: 1rem;
+    background-color: aliceblue;
+    font-size: 20px;
+    margin-top: 10%;
+    margin-left: 25%;
+    padding: 2.5rem 2rem 1rem 2rem ;
+    width: 50%;
 }
